@@ -1,0 +1,20 @@
+# Core dashboard dependencies
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Data collection
+requests==2.31.0
+tqdm==4.66.1
+
+# For reading parquet files
+pyarrow==14.0.1
+
+# Optional: Development dependencies
+black==23.12.1  # Code formatting
+pylint==3.0.3   # Code linting
+pytest==7.4.3   # Testing
