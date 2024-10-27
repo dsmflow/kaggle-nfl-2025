@@ -38,7 +38,7 @@ The data used in this dashboard is collected from the nflfastR database, which p
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/nfl-analysis-dashboard.git
+   git clone https://github.com/dsmflow/nfl-analysis-dashboard.git
    cd nfl-analysis-dashboard
    ```
 
